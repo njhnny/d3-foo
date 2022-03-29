@@ -12,4 +12,3 @@ YOUR API DOCUMENTATION HERE. Use bold for symbols (such as constructor and metho
 
 <a href="#foo" name="foo">#</a> <b>foo</b>()
 
-Computes the answer to the ultimate question of life, the universe, and everything.
